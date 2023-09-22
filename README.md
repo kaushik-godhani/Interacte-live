@@ -1,4 +1,4 @@
-![Chat Application Screenshot](./src/chat-app.jpg)
+![Chat Application Screenshot](https://github.com/kaushik-godhani/Interacte-live/blob/Front/src/chat-app.jpg)
 
 
 
