@@ -33,6 +33,6 @@ Follow these instructions to set up and run the project on your local machine.
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/kaushik-godhani/Interacte-live.git
    cd chat-application
    
